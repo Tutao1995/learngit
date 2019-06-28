@@ -3,4 +3,4 @@ Git is free software distributed under the GPL
 Git add  lisence
 Git readme  changed
 Git readme  changed  again
-Create a new quick branch is quick & simple
+Creating a new branch is quick and simple.
